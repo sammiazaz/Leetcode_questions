@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sammiazaz/Leetcode_questions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/sammiazaz/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sammiazaz/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sammiazaz/Leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sammiazaz/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Divide and Conquer
 |  |
