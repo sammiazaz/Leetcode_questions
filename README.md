@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/sammiazaz/Leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0092-reverse-linked-list-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/sammiazaz/Leetcode_questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/0148-sort-list) |
