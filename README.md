@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sammiazaz/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sammiazaz/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/sammiazaz/Leetcode_questions/tree/master/0735-asteroid-collision) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
