@@ -8,16 +8,6 @@ class Node {
 };
 */
 
-/*
-// Definition for a Node.
-class Node {
-    public int val;
-    public Node prev;
-    public Node next;
-    public Node child;
-};
-*/
-
 class Solution {
 
     public Node flatten(Node head) {
@@ -25,14 +15,14 @@ class Solution {
         if (head == null)
             return null;
 
-        dfs(head);
+        flattenDFS(head);
+
         return head;
     }
 
-    // Returns the tail of the flattened list
-    private Node dfs(Node node) {
+    private Node flattenDFS(Node head) {
 
-        Node curr = node;
+        Node curr = head;
         Node last = null;
 
         while (curr != null) {
@@ -42,22 +32,24 @@ class Solution {
             if (curr.child != null) {
 
                 Node childHead = curr.child;
-                Node childTail = dfs(childHead);
+                Node childTail = flattenDFS(childHead);
 
-                // Connect current -> child
+                // current -> child
                 curr.next = childHead;
                 childHead.prev = curr;
 
-                // Connect child tail -> next
+                // childTail -> next
                 if (next != null) {
                     childTail.next = next;
                     next.prev = childTail;
                 }
 
                 curr.child = null;
+
                 last = childTail;
 
             } else {
+
                 last = curr;
             }
 
