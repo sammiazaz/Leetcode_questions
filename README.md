@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/sammiazaz/Leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/sammiazaz/Leetcode_questions/tree/master/0735-asteroid-collision) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sammiazaz/Leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sammiazaz/Leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
