@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/sammiazaz/Leetcode_questions/tree/master/0735-asteroid-collision) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
