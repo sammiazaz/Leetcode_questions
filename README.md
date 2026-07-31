@@ -1,6 +1,6 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
-# LeetCode Topics 
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sammiazaz/Leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/sammiazaz/Leetcode_questions/tree/master/0735-asteroid-collision) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sammiazaz/Leetcode_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sammiazaz/Leetcode_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
