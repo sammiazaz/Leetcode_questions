@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sammiazaz/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sammiazaz/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/sammiazaz/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/sammiazaz/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/sammiazaz/Leetcode_questions/tree/master/0735-asteroid-collision) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sammiazaz/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/sammiazaz/Leetcode_questions/tree/master/0189-rotate-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sammiazaz/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sammiazaz/Leetcode_questions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
