@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sammiazaz/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sammiazaz/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/sammiazaz/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/sammiazaz/Leetcode_questions/tree/master/0735-asteroid-collision) |
 ## Dynamic Programming
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/0496-next-greater-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sammiazaz/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
