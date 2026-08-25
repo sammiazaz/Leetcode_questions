@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sammiazaz/Leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sammiazaz/Leetcode_questions/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sammiazaz/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sammiazaz/Leetcode_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/sammiazaz/Leetcode_questions/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/sammiazaz/Leetcode_questions/tree/master/0079-word-search) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sammiazaz/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sammiazaz/Leetcode_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/sammiazaz/Leetcode_questions/tree/master/1544-make-the-string-great) |
 ## Design
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sammiazaz/Leetcode_questions/tree/master/0055-jump-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sammiazaz/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sammiazaz/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Binary Search
 |  |
 | ------- |
