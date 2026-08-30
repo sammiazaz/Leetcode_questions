@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sammiazaz/Leetcode_questions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sammiazaz/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/sammiazaz/Leetcode_questions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/sammiazaz/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sammiazaz/Leetcode_questions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sammiazaz/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sammiazaz/Leetcode_questions/tree/master/0075-sort-colors) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sammiazaz/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sammiazaz/Leetcode_questions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sammiazaz/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sammiazaz/Leetcode_questions/tree/master/0198-house-robber) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sammiazaz/Leetcode_questions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/sammiazaz/Leetcode_questions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sammiazaz/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sammiazaz/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sammiazaz/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sammiazaz/Leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sammiazaz/Leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sammiazaz/Leetcode_questions/tree/master/0155-min-stack) |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sammiazaz/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sammiazaz/Leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
