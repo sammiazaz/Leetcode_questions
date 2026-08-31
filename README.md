@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sammiazaz/Leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/sammiazaz/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sammiazaz/Leetcode_questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/sammiazaz/Leetcode_questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sammiazaz/Leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sammiazaz/Leetcode_questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -207,4 +209,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sammiazaz/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sammiazaz/Leetcode_questions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sammiazaz/Leetcode_questions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sammiazaz/Leetcode_questions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sammiazaz/Leetcode_questions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
