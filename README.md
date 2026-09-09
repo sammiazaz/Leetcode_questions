@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sammiazaz/Leetcode_questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sammiazaz/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sammiazaz/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/sammiazaz/Leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/sammiazaz/Leetcode_questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sammiazaz/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sammiazaz/Leetcode_questions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/sammiazaz/Leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sammiazaz/Leetcode_questions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/sammiazaz/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sammiazaz/Leetcode_questions/tree/master/0242-valid-anagram) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sammiazaz/Leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/sammiazaz/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
