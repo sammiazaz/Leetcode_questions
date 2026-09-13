@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sammiazaz/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sammiazaz/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/sammiazaz/Leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sammiazaz/Leetcode_questions/tree/master/0739-daily-temperatures) |
 | [1539-kth-missing-positive-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/1539-kth-missing-positive-number) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sammiazaz/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sammiazaz/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 ## Longest Common Subsequence
 |  |
