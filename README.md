@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sammiazaz/Leetcode_questions/tree/master/0007-reverse-integer) |
 | [0089-gray-code](https://github.com/sammiazaz/Leetcode_questions/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sammiazaz/Leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sammiazaz/Leetcode_questions/tree/master/0189-rotate-array) |
