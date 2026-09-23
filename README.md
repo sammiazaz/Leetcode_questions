@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sammiazaz/Leetcode_questions/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/sammiazaz/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sammiazaz/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sammiazaz/Leetcode_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sammiazaz/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sammiazaz/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/sammiazaz/Leetcode_questions/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sammiazaz/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sammiazaz/Leetcode_questions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/sammiazaz/Leetcode_questions/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sammiazaz/Leetcode_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sammiazaz/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/1539-kth-missing-positive-number) |
@@ -264,4 +267,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/sammiazaz/Leetcode_questions/tree/master/0089-gray-code) |
+| [0287-find-the-duplicate-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
