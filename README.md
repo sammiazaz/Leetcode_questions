@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sammiazaz/Leetcode_questions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sammiazaz/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sammiazaz/Leetcode_questions/tree/master/0198-house-robber) |
+| [0509-fibonacci-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/sammiazaz/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/sammiazaz/Leetcode_questions/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sammiazaz/Leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sammiazaz/Leetcode_questions/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -276,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
