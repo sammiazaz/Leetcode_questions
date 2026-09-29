@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sammiazaz/Leetcode_questions/tree/master/0739-daily-temperatures) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sammiazaz/Leetcode_questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/1539-kth-missing-positive-number) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sammiazaz/Leetcode_questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sammiazaz/Leetcode_questions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/sammiazaz/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sammiazaz/Leetcode_questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sammiazaz/Leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sammiazaz/Leetcode_questions/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sammiazaz/Leetcode_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sammiazaz/Leetcode_questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Linked List
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sammiazaz/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sammiazaz/Leetcode_questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Binary Search
 |  |
 | ------- |
