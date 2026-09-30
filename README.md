@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sammiazaz/Leetcode_questions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sammiazaz/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sammiazaz/Leetcode_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sammiazaz/Leetcode_questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1544-make-the-string-great](https://github.com/sammiazaz/Leetcode_questions/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sammiazaz/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sammiazaz/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sammiazaz/Leetcode_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sammiazaz/Leetcode_questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/sammiazaz/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1544-make-the-string-great](https://github.com/sammiazaz/Leetcode_questions/tree/master/1544-make-the-string-great) |
 ## Design
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sammiazaz/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sammiazaz/Leetcode_questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sammiazaz/Leetcode_questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Binary Search
 |  |
