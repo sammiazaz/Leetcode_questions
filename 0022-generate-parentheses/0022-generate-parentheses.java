@@ -1,19 +1,47 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> ans = new ArrayList<String>();
-        generate(n, 0, 0, ans, "");
-        return ans;
+
+        List<String> result = new ArrayList<>();
+
+        backtrack("", 0, 0, n, result);
+
+        return result;
     }
-    public void generate(int n, int openingBracketCount, int closingBracketCount, List<String> ans, String ssf) {
-        if(openingBracketCount > n || closingBracketCount > n || closingBracketCount > openingBracketCount) {
+
+    private void backtrack(
+        String current,
+        int open,
+        int close,
+        int n,
+        List<String> result
+    ) {
+
+        // Complete valid combination
+        if (current.length() == 2 * n) {
+            result.add(current);
             return;
         }
-        if(openingBracketCount == n && closingBracketCount == n) {
-            ans.add(ssf);
-            return;
+
+        // Add '('
+        if (open < n) {
+            backtrack(
+                current + "(",
+                open + 1,
+                close,
+                n,
+                result
+            );
         }
- 
-        generate(n, openingBracketCount + 1, closingBracketCount, ans, ssf + "(");
-        generate(n, openingBracketCount, closingBracketCount + 1, ans, ssf + ")");
+
+        // Add ')'
+        if (close < open) {
+            backtrack(
+                current + ")",
+                open,
+                close + 1,
+                n,
+                result
+            );
+        }
     }
 }
