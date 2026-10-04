@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sammiazaz/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sammiazaz/Leetcode_questions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/sammiazaz/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/sammiazaz/Leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sammiazaz/Leetcode_questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sammiazaz/Leetcode_questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sammiazaz/Leetcode_questions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/sammiazaz/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/sammiazaz/Leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sammiazaz/Leetcode_questions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sammiazaz/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sammiazaz/Leetcode_questions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/sammiazaz/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sammiazaz/Leetcode_questions/tree/master/0242-valid-anagram) |
+| [0678-valid-parenthesis-string](https://github.com/sammiazaz/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sammiazaz/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sammiazaz/Leetcode_questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sammiazaz/Leetcode_questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sammiazaz/Leetcode_questions/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/sammiazaz/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sammiazaz/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sammiazaz/Leetcode_questions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sammiazaz/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sammiazaz/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sammiazaz/Leetcode_questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sammiazaz/Leetcode_questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
