@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sammiazaz/Leetcode_questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sammiazaz/Leetcode_questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sammiazaz/Leetcode_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sammiazaz/Leetcode_questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sammiazaz/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sammiazaz/Leetcode_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sammiazaz/Leetcode_questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sammiazaz/Leetcode_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sammiazaz/Leetcode_questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sammiazaz/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sammiazaz/Leetcode_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sammiazaz/Leetcode_questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sammiazaz/Leetcode_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sammiazaz/Leetcode_questions/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/sammiazaz/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sammiazaz/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sammiazaz/Leetcode_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sammiazaz/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sammiazaz/Leetcode_questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/1539-kth-missing-positive-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sammiazaz/Leetcode_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sammiazaz/Leetcode_questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Longest Common Subsequence
 |  |
