@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sammiazaz/Leetcode_questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sammiazaz/Leetcode_questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sammiazaz/Leetcode_questions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sammiazaz/Leetcode_questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sammiazaz/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/sammiazaz/Leetcode_questions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Matrix
 |  |
 | ------- |
@@ -326,4 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sammiazaz/Leetcode_questions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
