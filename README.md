@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/sammiazaz/Leetcode_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sammiazaz/Leetcode_questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sammiazaz/Leetcode_questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sammiazaz/Leetcode_questions/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sammiazaz/Leetcode_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sammiazaz/Leetcode_questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sammiazaz/Leetcode_questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/sammiazaz/Leetcode_questions/tree/master/0079-word-search) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sammiazaz/Leetcode_questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sammiazaz/Leetcode_questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -336,4 +339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sammiazaz/Leetcode_questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sammiazaz/Leetcode_questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
