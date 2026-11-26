@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/sammiazaz/Leetcode_questions/tree/master/0735-asteroid-collision) |
+| [3360-stone-removal-game](https://github.com/sammiazaz/Leetcode_questions/tree/master/3360-stone-removal-game) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sammiazaz/Leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sammiazaz/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/sammiazaz/Leetcode_questions/tree/master/0509-fibonacci-number) |
+| [3360-stone-removal-game](https://github.com/sammiazaz/Leetcode_questions/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
 | ------- |
