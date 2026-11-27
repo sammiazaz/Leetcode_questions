@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sammiazaz/Leetcode_questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sammiazaz/Leetcode_questions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sammiazaz/Leetcode_questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3693-climbing-stairs-ii](https://github.com/sammiazaz/Leetcode_questions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sammiazaz/Leetcode_questions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sammiazaz/Leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sammiazaz/Leetcode_questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sammiazaz/Leetcode_questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sammiazaz/Leetcode_questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
